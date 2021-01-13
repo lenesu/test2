@@ -1,0 +1,19 @@
+{
+  "Activities": [
+    {
+      "name": "Alergat",
+      "duration": "30",
+      "notes": "It was a sunny day!"
+    },
+    {
+      "name": "Abdomene",
+      "duration": "10",
+      "notes": "30 de abdomene"
+    },
+    {
+      "name": "Mic dejun echilibrat",
+      "duration": "30",
+      "notes": "Cereale cu lapte"
+    }
+  ]
+}
